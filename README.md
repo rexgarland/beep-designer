@@ -8,7 +8,8 @@ python3 create-beep.py --frequency 440 --sustain 0.1 --output beep.wav
 
 ## Parameters
 
-Design a beep based on this model:
+Design a beep based on this amplitude envelope model:
+
 ![model](model.png)
 
 Replace any variable name above in the command line tool.
