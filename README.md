@@ -3,7 +3,7 @@
 Because you deserve the perfect beep.
 
 Design a beep based on this model:
-[model.gif](model.jpg)
+![model.gif](model.jpg)
 
 A level of -6 corresponds to an sustain amplitude that is about half the peak.
 
